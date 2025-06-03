@@ -4,3 +4,7 @@
 In addition to the slides and supplementary content, this repo contains a recent tutorial article by instructor Tom Loredo and Duke University statistician Robert Wolpert. The ADS entry for the tutorial is:
 
 * [Bayesian inference: more than Bayes's theorem - Astrophysics Data System](https://ui.adsabs.harvard.edu/abs/2024FrASS..1126926L/abstract) (Loredo & Wolpert 2024)
+
+Also included is a brief, nontechnical note (unpublished) on the AIC, BIC, and DIC model selection criteria:
+
+* [Understanding information criteria for model selection](./Loredo2010-UnderstandingInfoCriteria.pdf) (Loredo 2010)
