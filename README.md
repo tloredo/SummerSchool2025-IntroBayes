@@ -7,4 +7,8 @@ In addition to the slides and supplementary content, this repo contains a recent
 
 Also included is a brief, nontechnical note (unpublished) on the AIC, BIC, and DIC model selection criteria:
 
-* [Understanding information criteria for model selection](./Loredo2010-UnderstandingInfoCriteria.pdf) (Loredo 2010)
+* [Understanding information criteria for model selection](./Loredo2010-UnderstandingInfoCriteria.pdf) (Loredo 2010)
+
+Additionally, there is a tutorial note on handling correlated noise in time series modeling via *generalized least squares*, using an AR(1) hidden Markov model; it also briefly describes how to handle correlated noise in nonparametric bootstrap analysis of time series data:
+
+* [Notes on correlated noise and dependent data resampling](./Loredo2015-CorrelatedNoise-GenLeastSquaresNotes) (Loredo 2015)
